@@ -1,71 +1,63 @@
-
-# Welcome to Project & Portfolio! ...🚀
+# 🚀 Welcome to Project & Portfolio!
 
 This repository will be used to keep track of research and development conducted in this class. Follow the instructions below to get started.
 
-## Step 1
+### Getting Started
 
-Review the [About](./docs/01_about/README.md) readme and all of the links it provides. 
+**1.** Review the [About](./docs/01_about/README.md) README and all of the links it provides.
 
+**2.** Review the documentation and [Getting Started](./docs/02_getting_started/README.md) steps in this repository's docs folder.
 
-## Step 2
+**3.** Attend the first Live Lecture to see a live setup demo. If you are unable to attend, make sure to watch the archive.
 
-Begin required research for the first milestone (see FSO). 
+### Next Steps...
 
-
-## Step 3
-
-Attend the first Live Session. If you are unable to attend the upcoming Live Session, view the archive or summary video which is typically posted to the Live Sessions assignment the following day. You can then begin to work on your version control and milestone assignments.  
-
+After completing the above steps, feel free to begin updating this readme where indicated below. Remember to update this document each week to receive proper credit for the weekly Milestone assignment.
 
 <br>
 
-
-### Next Steps...   
-After completing the above steps, feel free to begin updating this read me where indicated below. Be sure to also delete this paragraph and everything above it. Remember to update this document each week to receive proper credit for the weekly "Milestone" assignment. 
+> ❗️ &nbsp; Now that you have read to this point, go ahead and delete this sentence and everything above it.
 
 <br>
 
-# Project
-### First Last / Student ID: 000####### 
- Hello my name is ______ . I am a ______ student from ____. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future. 
- 
-Here's some additional information about me...
+# Project & Portfolio 1
 
+### Student First & Last Name
 
-![Degree Program](https://img.shields.io/badge/degree-web%20design%20%26%20development-blue.svg)
+![Degree Program](https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
+<br>
+![Class Name](https://img.shields.io/badge/Class-Project%20and%20Portfolio%20I-orange?logo=html5)
 
-
-eMaill@student.fullsail.edu -- (###) ###-#### 
-
-
-
+Hello my name is [enter name]. I am a student from [where are you from?]. The purpose of this repository is to practice development using version control. This work will help me begin to build a portfolio of skills and accomplishment that can be shared in the future.
 
 <br>
 
-## Progress Check / Stand Up
-Each week, I will summarize my milestone activity and progress by including a **Stand-Up**. A "stand-up" is when I take the time to briefly report out on the following...
+## 📢 &nbsp; Weekly Stand Up
 
-1. **Accomplishments** - What I worked on this past week
-2. **Challenges** - Any challenges I may have (and how I am addressing those challenges)
-3. **Next Steps** - What I plan to prioritize and do next 
-   
+Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going. Use these prompts as a guide on what to write about:
+
+⚙️ Overview - What I worked on this past week
+<br>
+🌵 Challenges - What problems did I have & how I'm addressing them
+<br>
+🏆 Accomplishments - What is something I "leveled up" on this week
+<br>
+🔮 Next Steps - What I plan to prioritize and do next
 
 <br>
 
-**Week 1**: Replace this paragraph with a brief "stand-up" (use steps 1-3 above as a guide on what to write about). Summarize your most recent milestone activity and work. What did you achieve? Are there any challenges? Describe your next steps and how you plan to prioritize your time. 3-4 sentences is acceptable. A stand-up is meant to be a succinct update on how things are going. Use this as an opportunity to report out on progress. 
+### Week 1
 
-**Week 2**: Next Stand up... Milestone 2  
+Replace this paragraph with your stand up for this week. Use the prompts above to summarize your most recent milestone activity and work.
 
-**Week 3**:    
+### Week 2
 
-**Week 4**:   
+My next stand up will go here...
 
+### Week 3
 
-<br>
+Stay tuned, this stand up is coming soon...
 
+### Week 4
 
-
-
-
-
+My final stand up...
