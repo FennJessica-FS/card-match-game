@@ -14,19 +14,19 @@ Hello my name is Jessica Fenn. I am a student from Michigan. The purpose of this
 
 Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going. Use these prompts as a guide on what to write about:
 
-⚙️ Overview - What I worked on this past week
+⚙️ Overview -This week, I spent time editing the README file and practicing version control, while also learning what the terminal is and getting more comfortable with GitHub.
 <br>
-🌵 Challenges - What problems did I have & how I'm addressing them
+🌵 Challenges - I'm having trouble navigating the terminal and git hub, I think it will take time to get used to, but right now it's intimidating.
 <br>
-🏆 Accomplishments - What is something I "leveled up" on this week
+🏆 Accomplishments - I broke my work into smaller pieces this week, and spreading the different tasks out over multiple days really helped me.
 <br>
-🔮 Next Steps - What I plan to prioritize and do next
+🔮 Next Steps - I plan to focus on setting clearer priorities between work, school, and family life, making sure to tackle the most important tasks first. I’ll also stick to a bite sized routine so I can spread things out and avoid feeling overwhelmed.
 
 <br>
 
 ### Week 1
 
-Replace this paragraph with your stand up for this week. Use the prompts above to summarize your most recent milestone activity and work.
+This week, I dove headfirst into getting familiar with the terminal and GitHub, and started building a workflow around project management. I downloaded GitHub to my desktop, set up my work environment, and began learning basic terminal commands and GitHub shortcuts.
 
 ### Week 2
 
