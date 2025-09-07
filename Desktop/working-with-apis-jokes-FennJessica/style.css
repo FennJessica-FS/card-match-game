@@ -1,0 +1,72 @@
+/*css file for joke generator project, I used vibrant crazy colors and fonts that reminded me of Nickelodeon or being a kid. - JF*/
+
+/* body styling */
+body {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  background-color: #ffeb3b;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* header styling */
+header {
+  background-color: #ff5722;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+  padding: 25px 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  font-size: 2rem;
+}
+
+/* joke card */
+/*looked up how to do gradient,a nd it looks cool! - JF*/
+#joke-section {
+  background: linear-gradient(135deg, #ff4081, #3f51b5);
+  color: white;
+  padding: 25px;
+  margin: 20px;
+  border-radius: 15px;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+#joke-section h2 {
+  text-shadow: 2px 2px #000000;
+  margin-bottom: 10px;
+}
+
+#joke-display,
+#punchline-display {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+/* button */
+#new-joke {
+  background-color: #3abb3e;
+  color: white;
+  border: 3px solid #000000;
+  padding: 12px 25px;
+  font-size: 1.1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.3s;
+}
+
+#new-joke:hover {
+  background-color: #00e676;
+  transform: scale(1.1);
+}
+
+/* footer */
+footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #333;
+  font-size: 0.9rem;
+}
