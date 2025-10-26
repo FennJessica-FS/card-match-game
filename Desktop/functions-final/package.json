@@ -1,0 +1,16 @@
+{
+  "name": "functions-final",
+  "version": "1.0.0",
+  "description": "Jessica Fenn - Functions + Tests Final",
+  "main": "functions.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
